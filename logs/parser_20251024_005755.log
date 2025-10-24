@@ -1,0 +1,1028 @@
+2025-10-24 00:58:13 - wildberries_parser - INFO - Начинаем парсинг по URL: https://www.wildberries.ru/catalog/0/search.aspx?search=термопаста, страниц: 1
+2025-10-24 00:58:13 - wildberries_parser - INFO - 
+==================================================
+2025-10-24 00:58:13 - wildberries_parser - INFO - Парсим страницу 1
+2025-10-24 00:58:13 - wildberries_parser - INFO - ==================================================
+2025-10-24 00:58:14 - wildberries_parser - INFO - Загружаем страницу...
+2025-10-24 00:58:17 - wildberries_parser - INFO - Начинаем постепенную прокрутку...
+2025-10-24 00:58:17 - wildberries_parser - INFO - Шаг 1: 30 товаров
+2025-10-24 00:58:18 - wildberries_parser - INFO - Шаг 2: 30 товаров
+2025-10-24 00:58:18 - wildberries_parser - INFO - Шаг 3: 45 товаров
+2025-10-24 00:58:18 - wildberries_parser - INFO - Шаг 4: 45 товаров
+2025-10-24 00:58:19 - wildberries_parser - INFO - Шаг 5: 60 товаров
+2025-10-24 00:58:19 - wildberries_parser - INFO - Шаг 6: 60 товаров
+2025-10-24 00:58:19 - wildberries_parser - INFO - Шаг 7: 75 товаров
+2025-10-24 00:58:20 - wildberries_parser - INFO - Шаг 8: 75 товаров
+2025-10-24 00:58:20 - wildberries_parser - INFO - Шаг 9: 75 товаров
+2025-10-24 00:58:20 - wildberries_parser - INFO - Шаг 10: 90 товаров
+2025-10-24 00:58:21 - wildberries_parser - INFO - Шаг 11: 90 товаров
+2025-10-24 00:58:21 - wildberries_parser - INFO - Шаг 12: 100 товаров
+2025-10-24 00:58:21 - wildberries_parser - INFO - Все продукты на странице проанализированы
+2025-10-24 00:58:21 - wildberries_parser - INFO - Всего загружено товаров: 100
+2025-10-24 00:58:21 - wildberries_parser - INFO - Итого загружено товаров: 100
+2025-10-24 00:58:21 - wildberries_parser - INFO - Найдено товаров для парсинга: 100
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #1 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 423.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 689.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 37
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: ARCTIC
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста АRCTIC MX-4 4 грамма
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 11346
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #2 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 171.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 435.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 59
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD STAR
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора, для ноутбука, для видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 19640
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #3 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 304.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 439.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 29
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: Термопаста для процессора / пк / видеокарта
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора и видеокарты компьютера и ноутбука
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 1863
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #4 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 244.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 730.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 65
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: ARCTIC
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста MX-4, 4гр. для процессора, видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 237
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #5 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 456.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 717.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 35
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: ARCTIC
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста АRCTIC MX-4 Spatula 4 грамма с лопаткой
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 4039
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #6 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 159.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 460.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 64
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD STAR
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора, для ноутбука, для видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 19640
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #7 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 187.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 279.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 31
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD900
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста ST30 для процессора и видеокарт, 30 гр
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.7
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 45
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #8 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 103.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 295.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 64
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD900
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста GD, 4 грамма в шприце (4,8 W m-k)
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 5893
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #9 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 347.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 912.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 61
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: arctik
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста ARCTIC MX-4 4г для процессора и видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 481
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #10 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 313.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 480.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 33
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD STAR
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора, для ноутбука, для видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 2881
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #11 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 262.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 505.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 46
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: PSYXI
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста РSYXI PSG-06 2 грамма
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.7
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 57
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #12 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 436.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 900.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 50
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD900
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста GD900-1 6 Вт мК для процессора 30 грамм
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 573
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #13 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 111.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 360.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 68
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD900-1
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста GD 900-1 7 г в шприце для процессора и видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 155
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #14 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 157.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 235.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 31
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: Amperin
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста SS100 для процессора и видеокарт, 15 гр
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 1090
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #15 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 189.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 281.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 31
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD900
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста CN30 для процессора и видеокарт, 30 гр
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 522
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #16 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 312.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 1000.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 68
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD STAR
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора, для ноутбука, для видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 19640
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #17 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 175.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 790.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 77
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: CoolMoon
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора, видеокарты, термоинтерфейсов 1 гр
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 645
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #18 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 589.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 970.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 37
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: ARCTIC
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста АRCTIC MX-4 Spatula 8 грамм с лопаткой
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 1193
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #19 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 188.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 680.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 71
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD STAR
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора, для ноутбука, для видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 19640
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #20 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 123.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 350.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 64
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD900
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста GD, 7 граммов в шприце (4,8 W m-K)
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 161
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #21 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 98.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 278.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 64
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD900
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора 1гр в шприце
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 11598
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #22 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 83.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 121.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 29
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD Brand
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста GD900-1
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 126
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #23 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 407.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 1200.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 65
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: не найден
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста Thermal Grizzly Kryonaut ultra high 1 гр
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 23
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #24 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 343.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 990.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 64
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: CoolMoon
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста силиконовая MT9, 2 грамма в шприце
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 59
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #25 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 257.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 590.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 55
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD900
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста GD 900 30г в банке для процессора и видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 310
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #26 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 285.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 609.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 52
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: PSYXI
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста РSYXI PSG-06 4 грамма
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 106
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #27 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 222.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 630.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 63
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD900
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста GD, 30 граммов в шприце (4,8 W m-K)
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 862
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #28 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 186.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 277.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 31
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: SOLINS
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста КПТ-8 для процессора и видеокарт, 20 гр
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 3055
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #29 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 291.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 1200.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 75
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: ARCTIC
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста MX-4 4-грамма
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 631
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #30 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 173.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 695.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 74
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD900
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста GD900-1 6 Вт мК для процессора 7 грамм
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 592
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #31 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 267.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 559.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 51
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: COOLZILLA
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста CL-8 для процессора, ноутбука, компьютера, 5 г
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 5.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 90
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #32 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 206.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 445.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 52
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD STAR
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора, для ноутбука, для видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 2881
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #33 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 115.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 340.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 65
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD STAR
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора, для ноутбука, для видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 19640
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #34 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 103.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 167.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 36
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: TERABIT
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для охлаждения, компьютера, ноутбука 1гр
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.6
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 152
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #35 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 455.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 1800.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 74
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: ARCTIC
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста MX-4 8-грамм
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 166
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #36 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 564.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 1300.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 55
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: ARCTIC
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста АRCTIC MX-6 4 грамма с салфетками MX Cleaner
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 5.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 19
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #37 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 221.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 329.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 31
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: SOLINS
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста КПТ-8 для процессора и видеокарт, 50 гр
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 1918
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #38 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 311.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 1320.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 75
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD STAR
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора, для ноутбука, для видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 2881
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #39 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 207.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 750.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 71
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD900
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста GD900-1 6 Вт мК для процессора 15 грамм
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 651
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #40 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 199.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 379.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 46
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: FrostMining
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста OTK-2 10.6Вт Мк Overclock Test Killer 3г
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.7
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 35
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #41 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 194.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 756.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 73
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: FrostMining
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста OTK-1 13 Вт мК 1г
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 242
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #42 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 105.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 270.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 60
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD900-1
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста GD 900-1 3 г в шприце для процессора и видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 120
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #43 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 623.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 1050.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 39
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: ARCTIC
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста АRCTIC MX-6 4 грамма
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.7
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 730
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #44 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 422.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 800.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 46
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: HONEYWELL
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста PTM7950-SP с фазовым переходом 2гр
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.7
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 550
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #45 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 159.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 500.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 67
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD900-1
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста GD 900-1 15г в шприце для процессора и видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 96
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #46 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 410.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 1134.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 63
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: ARCTIC..
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Arctic Cooling mx-4 4ml шприц 4 гр термопаста
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 54
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #47 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 640.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 1770.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 63
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: CoolMoon
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора MT10
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 69
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #48 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 419.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 1449.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 70
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: FrostMining
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста OTK-1 13 Вт мК 8г
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 242
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #49 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 94.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 160.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 40
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: не найден
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора ноутбука GD 900-1 3 грамма
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 302
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #50 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 151.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 430.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 63
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD900
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста GD, 15 граммов в шприце (4,8 W m-K)
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 1638
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #51 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 275.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 1019.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 72
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: FrostMining
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста OTK-1 13 Вт мК 3г
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 242
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #52 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 255.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 430.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 39
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: FrostMining
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста 16Вт Frost Mining Overclock maximum X-treme 2г
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.7
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 19
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #53 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 98.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 260.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 61
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: не найден
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста YJ-G190 30 грамм
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 25
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #54 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 313.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 695.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 53
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD STAR
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора, для ноутбука, для видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 19640
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #55 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 372.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 515.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 26
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: FrostMining
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста 16Вт Frost Mining Overclock maximum X-treme 4г
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.7
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 19
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #56 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 198.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 335.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 39
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: FrostMining
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста OTK-Lite для процессора, ноутбука, видеокарты 18г
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 196
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #57 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 142.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 499.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 70
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: deVENTE
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста Grapheneum RG-21 8 г для процессора и видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 301
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #58 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 391.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 1590.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 74
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: CoolMoon
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста силиконовая MT9, 4 грамма в шприце
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 132
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #59 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 317.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 619.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 47
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: FrostMining
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста OTK-2 10.6Вт Мк Overclock Test Killer 8г
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.7
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 35
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #60 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 199.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 336.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 39
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: SmartMaster PRO
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста 10.5Вт мК 16г для видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 275
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #61 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 255.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 447.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 41
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: ARCTIC
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста АRCTIC MX-2 4 грамма
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 2230
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #62 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 278.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 590.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 51
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD900
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста GD 900 30г в шприце для процессора и видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 200
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #63 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 312.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 450.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 29
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: FrostMining
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста OTK-3 9.4 Вт Мк 18г Overclock Test Killer
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 24
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #64 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 533.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 857.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 36
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: SmartMaster PRO
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста SMP-ULTIMATE 19.2 Вт мК 8г
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 96
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #65 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 245.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 561.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 55
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: ARCTIC
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста MX-4 в шприце 4 грамма с лопаткой
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 80
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #66 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 176.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 255.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 29
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста GD900 3г 4.8 Вт (Мк)
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 5.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 12
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #67 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 611.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 845.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 26
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: FrostMining
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста 16Вт Frost Mining Overclock maximum X-treme 8г
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.7
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 19
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #68 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 312.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 450.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 29
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: FrostMining
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста OTK-Lite для процессора, ноутбука, видеокарты 30г
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 196
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #69 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 221.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 1000.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 77
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: Snowman
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора 5 грамма 14,3 ВТ
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 341
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #70 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 203.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 600.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 65
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: ARCTIC
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста MX-4, 2гр. для процессора, видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.7
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 155
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #71 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 328.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 550.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 39
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: SmartMaster PRO
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста SMP-ULTIMATE 19.2 Вт мК 4г
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 96
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #72 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 528.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 730.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 26
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: FrostMining
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста OTK-3 9.4 Вт Мк 30г Overclock Test Killer
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 24
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #73 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 138.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 444.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 68
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: не найден
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора и видеокарты компьютера и ноутбука
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 5.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 2
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #74 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 320.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 690.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 52
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: CoolMoon
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста Arctic MX-4, 4 грамма в шприце
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.5
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 32
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #75 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 724.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 1000.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 26
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: THERMALRIGHT
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора TF-8 2 грамма с лопаткой
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 5.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 20
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #76 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 303.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 509.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 39
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: SmartMaster PRO
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста 10.5Вт мК 32г для видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 275
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #77 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 102.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 332.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 68
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD900
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора GD2, 3гр в шприце
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 11598
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #78 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 126.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 260.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 50
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD STAR
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора, для ноутбука, для видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 2376
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #79 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 288.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 1185.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 75
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: FrostMining
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста Жидкий металл 58Вт ULM-1
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 190
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #80 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 606.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 855.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 27
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: FrostMining
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста с фазовым переходом 10Вт Мк 80х40мм
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.5
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 102
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #81 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 114.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 312.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 62
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD900
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора ГД900, 3гр в шприце
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 11598
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #82 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 103.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 250.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 57
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD900
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста GD 900 3г в шприце для процессора и видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 1395
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #83 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 728.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 1239.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 40
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: FrostMining
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста с фазовым переходом 10Вт Мк 80x80мм
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.5
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 102
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #84 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 876.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 1210.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 26
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: ARCTIC
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста Cooling MX-6 (шприц 4 гр.)
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: не найден
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: не найдены
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #85 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 560.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 900.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 36
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста GD-2 - 30гр, 7,5W m-K
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.6
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 431
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #86 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 152.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 345.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 54
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD STAR
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора, для ноутбука, для видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 2881
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #87 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 869.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 1250.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 29
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: FrostMining
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста Жидкий металл 58Вт ULM-1 3г
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 190
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #88 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 1037.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 1792.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 40
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: ARCTIC
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста АRCTIC MX-4 20 грамм
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 5.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 410
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #89 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 313.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 610.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 47
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD STAR
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора, для ноутбука, для видеокарты
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 2376
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #90 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 372.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 565.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 32
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: FrostMining
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста с фазовым переходом 10Вт Мк 40x40мм
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.5
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 102
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #91 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 593.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 820.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 26
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: ARCTIC
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста Cooling MX-6 (шприц 2 гр.)
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 5.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 3
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #92 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 254.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 367.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 29
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: OCYPUS
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста Gamma ET40, 4гр (Gamma-ET40-GRN00XXX-GL)
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: не найден
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: не найдены
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #93 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 146.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 218.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 31
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD900
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста BA4 для процессора и видеокарт, 4 гр
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 261
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #94 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 1021.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 1410.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 26
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: ARCTIC
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста Cooling MX-6 (шприц 8 гр.)
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: не найден
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: не найдены
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #95 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 1556.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 4297.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 63
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: ГЕРМОИЗОЛ
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста кремнеорганическая теплопроводная
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.5
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 18
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #96 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 381.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 1317.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 70
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: Snowman
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора 10 грамма 14,3 ВТ
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.8
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 145
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #97 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 112.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 166.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 30
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста GD900, 1гр
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.7
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 28
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #98 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 382.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 600.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 35
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: SALMENTA
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Паста теплопроводная HY510
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 5.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 3
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #99 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 1503.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 2075.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 26
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: FrostMining
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста с фазовым переходом 10Вт Мк 160х80мм
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.5
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 102
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - 
+--- Товар #100 ---
+2025-10-24 00:58:21 - wildberries_parser - INFO - Текущая цена: 266.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Старая цена: 711.0
+2025-10-24 00:58:21 - wildberries_parser - INFO - Скидка: 61
+2025-10-24 00:58:21 - wildberries_parser - INFO - Бренд: GD900
+2025-10-24 00:58:21 - wildberries_parser - INFO - Название: Термопаста для процессора 30гр в шприце
+2025-10-24 00:58:21 - wildberries_parser - INFO - Рейтинг: 4.9
+2025-10-24 00:58:21 - wildberries_parser - INFO - Отзывы: 11598
+2025-10-24 00:58:21 - wildberries_parser - INFO - Остатки: Остатки не указаны
+2025-10-24 00:58:21 - wildberries_parser - INFO - Успешно спарсено товаров: 100
+2025-10-24 00:58:27 - wildberries_parser - INFO - С страницы 1 получено товаров: 100
+2025-10-24 00:58:27 - wildberries_parser - INFO - Всего собрано товаров: 100
+2025-10-24 00:58:27 - wildberries_parser - INFO - 
+Парсинг завершен. Итого собрано товаров: 100

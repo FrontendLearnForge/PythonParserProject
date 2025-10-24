@@ -1,0 +1,1 @@
+DATABASE_URL=postgresql://postgres:228337ab@localhost:5432/products_db
